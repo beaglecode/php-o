@@ -7,7 +7,7 @@ namespace O;
 $classPath = realpath(dirname(__FILE__)."/core");
 
 // Session
-if (!class_exists("\\O\\Session")) include($classPath."/Session.php");
+//if (!class_exists("\\O\\Session")) include($classPath."/Session.php");
 
 // s()
 if (!class_exists("\\O\\StringClass")) include($classPath."/StringClass.php");
