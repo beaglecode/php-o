@@ -265,7 +265,7 @@ Chainables are smart enough not to accidentally wrap a chainable, so you can go 
 Session handling
 ----------------
 
-Another thing O does for you is set up sessions so they are secure by default.
+Another thing O wants to do ~~does~~ for you is set up sessions so they are secure by default. This behaviour is disabled by default in our fork.
 
 When you do `session_start()` O guarantees the following:
 

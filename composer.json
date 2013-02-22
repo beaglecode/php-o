@@ -1,6 +1,6 @@
 {
-	"name": "jsebrech/php-o",
-	"version": "0.0.1",
+	"name": "beaglecode/php-o",
+	"version": "0.0.2",
 	"require": {
 		"php": ">=5.3.0"
 	}
